@@ -79,7 +79,7 @@ Network open_network(ProtocolType protocol, const char *ip, int port) {
                 exit(EXIT_FAILURE);
             }
 
-            printf("connect to %s:8080\n\n", port);
+            printf("connect to %s:8080\n\n", ip);
 
 
             break;
