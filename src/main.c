@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
-    printf("hello\n");
-
-
+    printf("welcome to MsgEngine\n");
+    
     return 0;
 }
